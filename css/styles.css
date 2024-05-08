@@ -1,0 +1,57 @@
+
+header {
+    text-align: center;
+    font-size:15px;
+    font-style:italic;
+    letter-spacing: 0.2em;
+    background-color: #cbf7ed
+  }
+
+h1 {
+    color:green;
+}
+
+#home{
+ background-color: #80ed99
+
+}
+
+h2{
+  color: #7b2cbf
+}
+
+#about{
+ background-color: #eeef20
+}
+
+#products{
+ background-color: #ff9e00
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+}
+h3{
+  background-color: #1be7ff
+
+}
+
+button{
+    background-color: #e500a4;
+    font-size:x-large;
+    font-style: bolder;
+    font-style:italic;
+    color: #f8f7ff;
+    padding: 10px;
+}
+
+p{
+    text-align: center;
+    color:#086788;
+    font-size:xx-large;
+    font-style: bold;
+    font-style:italic;
+}
