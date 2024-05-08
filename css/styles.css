@@ -2,30 +2,45 @@
 header {
     text-align: center;
     font-size:15px;
-    font-style:italic;
     letter-spacing: 0.2em;
-    background-color: #cbf7ed
+    background-color: #ef476f
   }
 
 h1 {
-    color:green;
+    color:white
 }
 
 #home{
- background-color: #80ed99
+    color: black
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 
 }
 
 h2{
-  color: #7b2cbf
+  color: black
 }
 
 #about{
- background-color: #eeef20
+    color: black;
+    border: 1px solid;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 #products{
- background-color: #ff9e00
+    color: black;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 .responsive {
@@ -33,25 +48,45 @@ h2{
     height: auto;
   }
 
-}
 h3{
-  background-color: #1be7ff
-
+    background-color: #fdca40
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 button{
-    background-color: #e500a4;
+    background-color: #38b000;
     font-size:x-large;
     font-style: bolder;
-    font-style:italic;
-    color: #f8f7ff;
+    color: white;
     padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px
+}
+
+div{
+    background-color: #fdca40
 }
 
 p{
-    text-align: center;
-    color:#086788;
-    font-size:xx-large;
+    color:black;
+    font-size:medium;
     font-style: bold;
-    font-style:italic;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.contact{
+    color: white;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
 }
