@@ -3,21 +3,21 @@ header {
     text-align: center;
     font-size:15px;
     letter-spacing: 0.2em;
-    background-color: #ef476f
+    background-color: #ef476f;
   }
 
 h1 {
-    color:white
+    color:white;
+    font-family: Helvetica, sans-serif;
 }
 
 #home{
-    color: black
+    color: black;
     margin-top: 15px;
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
-
 }
 
 h2{
@@ -26,7 +26,8 @@ h2{
 
 #about{
     color: black;
-    border: 1px solid;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
     margin-top: 15px;
     padding-top: 15px;
     padding-left: 15px;
@@ -36,7 +37,7 @@ h2{
 
 #products{
     color: black;
-    margin-top: 15px;
+    margin-block: 2%;
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
@@ -49,12 +50,16 @@ h2{
   }
 
 h3{
-    background-color: #fdca40
+    background-color: #fdca40;
     margin-top: 15px;
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+}
+
+img{
+    float: left;
 }
 
 button{
@@ -63,12 +68,12 @@ button{
     font-style: bolder;
     color: white;
     padding: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px
+    margin-block: 2%;
+    padding-bottom: 15px;
 }
 
 div{
-    background-color: #fdca40
+    background-color: #fdca40;
 }
 
 p{
